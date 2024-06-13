@@ -1,0 +1,72 @@
+UserID: 6609811213 | Time: 2024-06-13 13:52:42.930829 | Command: /bgmi | Target: 20.204.189.126 | Port: 55528 | Time: 20
+Username: @NINJA_X_YT_01
+Target: 20.204.189.126
+Port: 55528
+Time: 20
+
+UserID: 6609811213 | Time: 2024-06-13 16:56:46.021132 | Command: /bgmi | Target: https://4.213.65.113 | Port: 10851 | Time: 120
+Username: @NINJA_X_YT_01
+Target: https://4.213.65.113
+Port: 10851
+Time: 120
+
+UserID: 6609811213 | Time: 2024-06-13 17:28:21.386875 | Command: /bgmi | Target: 20.219.124.128 | Port: 19020 | Time: 120
+Username: @NINJA_X_YT_01
+Target: 20.219.124.128
+Port: 19020
+Time: 120
+
+UserID: 6609811213 | Time: 2024-06-13 17:31:58.667416 | Command: /bgmi | Target: 20.198.111.131 | Port: 19639 | Time: 120
+Username: @NINJA_X_YT_01
+Target: 20.198.111.131
+Port: 19639
+Time: 120
+
+UserID: 6609811213 | Time: 2024-06-13 17:34:21.508750 | Command: /bgmi | Target: 20.198.111.131 | Port: 19639 | Time: 30
+Username: @NINJA_X_YT_01
+Target: 20.198.111.131
+Port: 19639
+Time: 30
+
+UserID: 6609811213 | Time: 2024-06-13 17:34:41.503369 | Command: /bgmi | Target: 20.198.111.131 | Port: 19639 | Time: 30
+Username: @NINJA_X_YT_01
+Target: 20.198.111.131
+Port: 19639
+Time: 30
+
+UserID: 6609811213 | Time: 2024-06-13 17:35:06.265385 | Command: /bgmi | Target: 20.198.111.131 | Port: 19639 | Time: 30
+Username: @NINJA_X_YT_01
+Target: 20.198.111.131
+Port: 19639
+Time: 30
+
+UserID: 6609811213 | Time: 2024-06-13 17:40:28.377910 | Command: /bgmi | Target: 4.213.65.142 | Port: 12988 | Time: 120
+Username: @NINJA_X_YT_01
+Target: 4.213.65.142
+Port: 12988
+Time: 120
+
+UserID: 6609811213 | Time: 2024-06-13 17:42:42.666649 | Command: /bgmi | Target: 4.213.65.142 | Port: 12988 | Time: 40
+Username: @NINJA_X_YT_01
+Target: 4.213.65.142
+Port: 12988
+Time: 40
+
+UserID: 6609811213 | Time: 2024-06-13 17:53:32.249648 | Command: /bgmi | Target: 20.198.111.42 | Port: 27007 | Time: 120
+Username: @NINJA_X_YT_01
+Target: 20.198.111.42
+Port: 27007
+Time: 120
+
+UserID: 6609811213 | Time: 2024-06-13 17:55:45.513968 | Command: /bgmi | Target: 20.198.111.42 | Port: 27007 | Time: 40
+Username: @NINJA_X_YT_01
+Target: 20.198.111.42
+Port: 27007
+Time: 40
+
+UserID: 6609811213 | Time: 2024-06-13 17:56:30.999595 | Command: /bgmi | Target: 20.198.111.42 | Port: 27007 | Time: 40
+Username: @NINJA_X_YT_01
+Target: 20.198.111.42
+Port: 27007
+Time: 40
+
